@@ -1,5 +1,5 @@
 Выполнение работ курса "Большие данные"  
-Написание SQL - запросов.  
+Работа с БД и написание SQL - запросов.  
 ExtractionSQL_PodruadchikovVV.ipynb  
 SUBDbasics_PodruadchikovVV.ipynb  
 
